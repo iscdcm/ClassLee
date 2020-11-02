@@ -5,7 +5,7 @@
 **       iscdcm.com                                  ***
 ** Fecha: 02 de Noviembre 2020                       ***
 ** Descripcion: Clase para facilitar la lectura      ***
-                de datos por teclado en aplicaiones  ***
+                de datos por teclado en aplicaciones ***
                 java simples.                        ***
           Metodos:                                   ***
             -leerInt()                               ***
